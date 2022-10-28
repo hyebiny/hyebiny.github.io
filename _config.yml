@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Hyebin
 
 # Your name to show in the footer
-author: Some Person
+author: hyebin
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://hyebiny.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -289,3 +289,6 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
+
+remote_theme : daattali/beautiful-jekyll
